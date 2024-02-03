@@ -1,7 +1,7 @@
 """
 Ứng dụng:
 - Quản lý tài nguyên chung
-- dữ liệu cấu hình
+- dữ liệu cấu hình 
 - quản lý tài nguyên global
 
 """
